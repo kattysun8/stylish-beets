@@ -27,3 +27,7 @@ nav a:hover {
   color: #371214;
   text-decoration: underline;
 }
+
+nav ol {
+  list-style-type: none;
+}
