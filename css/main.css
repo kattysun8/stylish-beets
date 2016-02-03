@@ -16,3 +16,14 @@ h2 {
 img {
   width: 100%;
 }
+
+nav a {
+  color: #8A2E3D;
+  font-family: "PT Sans", sans-serif;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #371214;
+  text-decoration: underline;
+}
