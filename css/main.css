@@ -37,3 +37,41 @@ nav a:hover {
 nav ol {
   list-style-type: none;
 }
+
+.big {
+  font-weight: 700;
+}
+
+blockquote {
+  font-style: italic;
+  font-size: 1.5rem;
+}
+
+strong {
+  font-weight: normal;
+}
+
+cite {
+  font-size: 0.8rem;
+}
+
+ol {
+  list-style-type: lower-greek;
+}
+
+.servingstyle {
+  font-style: italic;
+}
+
+dt {
+  font-weight: 700;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+footer small a {
+  color: #8A2E3D;
+  text-decoration: none;
+}
