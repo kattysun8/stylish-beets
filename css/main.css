@@ -1,5 +1,5 @@
 body {
-  background-color: #C9B5AD;
+  background-color: #c9b5ad;
   font-family: "PT Serif", serif;
 }
 
@@ -23,7 +23,7 @@ figcaption {
 }
 
 nav a {
-  color: #8A2E3D;
+  color: #8a2e3d;
   font-family: "PT Sans", sans-serif;
   text-decoration: none;
   font-weight: 700;
@@ -45,6 +45,7 @@ nav ol {
 blockquote {
   font-style: italic;
   font-size: 1.5rem;
+  line-height: 2.0rem;
 }
 
 strong {
@@ -72,6 +73,6 @@ ul {
 }
 
 footer small a {
-  color: #8A2E3D;
+  color: #8a2e3d;
   text-decoration: none;
 }
